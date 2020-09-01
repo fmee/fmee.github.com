@@ -1,2 +1,2 @@
-# fmee.github.io
+# fmee.github.com
 fmee repository
